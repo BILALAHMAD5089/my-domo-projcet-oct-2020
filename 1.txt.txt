@@ -5,5 +5,7 @@ domo world
 online changing in 1 file
 again changing in file
  changing for smartgit hub for local chang
+ new changing in 3.txt
+ 
 
 
